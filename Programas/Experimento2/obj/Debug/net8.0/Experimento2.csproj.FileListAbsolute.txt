@@ -1,0 +1,14 @@
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\bin\Debug\net8.0\Experimento2.exe
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\bin\Debug\net8.0\Experimento2.deps.json
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\bin\Debug\net8.0\Experimento2.runtimeconfig.json
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\bin\Debug\net8.0\Experimento2.dll
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\bin\Debug\net8.0\Experimento2.pdb
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\obj\Debug\net8.0\Experimento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\obj\Debug\net8.0\Experimento2.AssemblyInfoInputs.cache
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\obj\Debug\net8.0\Experimento2.AssemblyInfo.cs
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\obj\Debug\net8.0\Experimento2.csproj.CoreCompileInputs.cache
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\obj\Debug\net8.0\Experimento2.dll
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\obj\Debug\net8.0\refint\Experimento2.dll
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\obj\Debug\net8.0\Experimento2.pdb
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\obj\Debug\net8.0\Experimento2.genruntimeconfig.cache
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Programas\Experimento2\obj\Debug\net8.0\ref\Experimento2.dll

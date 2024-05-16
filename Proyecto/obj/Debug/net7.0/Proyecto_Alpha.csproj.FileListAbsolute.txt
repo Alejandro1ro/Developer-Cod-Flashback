@@ -1,0 +1,42 @@
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.exe
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.deps.json
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.runtimeconfig.json
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.dll
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.pdb
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.AssemblyInfoInputs.cache
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.AssemblyInfo.cs
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.dll
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\refint\Proyecto_Alpha.dll
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.pdb
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.genruntimeconfig.cache
+C:\Users\Alejandro1ro\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\ref\Proyecto_Alpha.dll
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.exe
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.deps.json
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.runtimeconfig.json
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.dll
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.pdb
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.AssemblyInfoInputs.cache
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.AssemblyInfo.cs
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.csproj.CoreCompileInputs.cache
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.dll
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\refint\Proyecto_Alpha.dll
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.pdb
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.genruntimeconfig.cache
+C:\Users\XAlejandro1roX\Documents\Programacion\C#\Orison Soto\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\ref\Proyecto_Alpha.dll
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.exe
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.deps.json
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.runtimeconfig.json
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.dll
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\bin\Debug\net7.0\Proyecto_Alpha.pdb
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.AssemblyInfoInputs.cache
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.AssemblyInfo.cs
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.csproj.CoreCompileInputs.cache
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.dll
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\refint\Proyecto_Alpha.dll
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.pdb
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.genruntimeconfig.cache
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\ref\Proyecto_Alpha.dll
