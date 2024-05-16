@@ -23,3 +23,4 @@ Selecciona dos personas aleatoriamente, la primera persona será el **desarrolla
 * Reloj de Windows actulizado.
 * Ejecutar el programa en PowerShell.
 * El Reloj debe tener los 'Timer' creados antes de ejecutar el programa. Los Timer son: 01:00, 03:00 y 05:00 (Todo esto en minutos).
+* Tenet .NET 7.0

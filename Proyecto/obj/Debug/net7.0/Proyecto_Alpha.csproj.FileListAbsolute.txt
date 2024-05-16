@@ -40,3 +40,4 @@ C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\refint\
 C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.pdb
 C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.genruntimeconfig.cache
 C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\ref\Proyecto_Alpha.dll
+C:\Users\XAlejandro1roX\Desktop\Proyecto_Alpha\Proyecto\obj\Debug\net7.0\Proyecto_Alpha.sourcelink.json

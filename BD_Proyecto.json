@@ -24,7 +24,21 @@
   "Realizado" : true,
   "Puntuacion" : 10,
   "Fecha" : "16/05/2024"
+},{
+  "Facilitador" : "Jean Carlos Castillo Fernandez",
+  "Lim. minutos" : 1,
+  "Lim. linea" : 15,
+  "Lim. intentos" : 3,
+  "Desarrollador" : "Yosmal Zalaba",
+  "S. Empleados" : 56.2388237,
+  "L. Empleadas" : 2,
+  "I. Empleados" : 0,
+  "Programa": "=HYPERLINK(\"C:\\Users\\XAlejandro1roX\\Desktop\\Proyecto_Alpha\\Programas\\Experimento4\\bin\\Debug\\net8.0\\Experimento4.exe\", \"Experimento4\")",
+  "Realizado" : true,
+  "Puntuacion" : 10,
+  "Fecha" : "16/05/2024"
 }]
+
 
 
 
